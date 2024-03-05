@@ -7,7 +7,3 @@
 # fdsdev_noGunRecoil - No Recoil - Remove or set Gun Recoil Multiplier [STANDALONE]
 
 This resource allows you to remove recoil (No Recoil) or just to set a recoil multiplier.
-
-
-discord.gg/amEJNfn9HX - For free Support
-fdsdevelopment.tebex.io
